@@ -96,7 +96,7 @@
 }
 
 .products_container .items img:hover {
-  transform: scale(1.2);
+  transform: scale(1.1);
   transition: all .5s;
 }
 
