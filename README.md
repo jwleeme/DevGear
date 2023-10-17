@@ -1,6 +1,6 @@
-<img src="/uploads/97350ef12d03f8e73cd93123958c4452/배너.png"  width="650" height="330">
 
 - 배포 URL : https://kdt-sw-6-team05.elicecoding.com/
+<br/> => 사전에 회원가입/로그인 시 회원쪽에서 JWT token 값을 localStorage에 담고있어 로그아웃(=비회원) 상태에서 구매하기/장바구니 버튼을 눌렀을때 로그인하라는 alert가 뜨지않고 바로 주문/장바구니 페이지로 이동합니다.
 
 ## 🛒 프로젝트 명
 
